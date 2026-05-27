@@ -126,13 +126,13 @@ export default function PrivacyPageEn() {
         </section>
 
         <section className="glass-panel rounded-[1rem] p-6">
-          <h2 className="text-lg font-semibold">Third‑party Sign‑In</h2>
+          <h2 className="text-lg font-semibold">12. Third‑party Sign‑In</h2>
           <p className="mt-3 text-sm text-muted">If you sign in with Google or Apple, we may receive basic profile information such as your name, email, and avatar to create and manage your account.</p>
         </section>
 
         <section className="glass-panel rounded-[1rem] p-6">
-          <h2 className="text-lg font-semibold">Contact</h2>
-          <p className="mt-3 text-sm text-muted">Email: support@drino.app</p>
+          <h2 className="text-lg font-semibold">13. Contact</h2>
+          <p className="mt-3 text-sm text-muted">Email: drino.support@gmail.com</p>
         </section>
       </div>
     </SiteShell>
