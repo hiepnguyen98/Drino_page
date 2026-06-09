@@ -144,7 +144,7 @@ export function HomeLandingPage() {
               <Image src="/google-play-badge.png" alt="Get it on Google Play" width={120} height={40} className="h-14 w-auto" />
             </a>
 
-            <a href="https://apps.apple.com/app/your-app-id" target="_blank" rel="noopener noreferrer" aria-label="Download on the App Store" className="inline-flex overflow-hidden rounded-[1rem] shadow-lg transition hover:-translate-y-0.5 hover:opacity-95">
+            <a href="https://apps.apple.com/vn/app/drino-qu%E1%BA%A3n-l%C3%BD-xe/id6770498857?l=vi" target="_blank" rel="noopener noreferrer" aria-label="Download on the App Store" className="inline-flex overflow-hidden rounded-[1rem] shadow-lg transition hover:-translate-y-0.5 hover:opacity-95">
               <Image src="/app-store-badge.svg" alt="Download on the App Store" width={120} height={40} className="h-14 w-auto" />
             </a>
           </div>
@@ -241,7 +241,7 @@ export function HomeLandingPage() {
               <a href="https://play.google.com/store/apps/details?id=com.henry0198.Drino&pcampaignid=web_share" target="_blank" rel="noopener noreferrer" className="inline-flex overflow-hidden rounded-[1rem] shadow-sm transition hover:-translate-y-0.5 hover:opacity-95">
                 <Image src="/google-play-badge.png" alt="Google Play" width={120} height={40} className="h-12 w-auto" />
               </a>
-              <a href="https://apps.apple.com/app/your-app-id" target="_blank" rel="noopener noreferrer" className="inline-flex overflow-hidden rounded-[1rem] shadow-sm transition hover:-translate-y-0.5 hover:opacity-95">
+              <a href="https://apps.apple.com/vn/app/drino-qu%E1%BA%A3n-l%C3%BD-xe/id6770498857?l=vihttps://apps.apple.com/vn/app/drino-qu%E1%BA%A3n-l%C3%BD-xe/id6770498857?l=vi" target="_blank" rel="noopener noreferrer" className="inline-flex overflow-hidden rounded-[1rem] shadow-sm transition hover:-translate-y-0.5 hover:opacity-95">
                 <Image src="/app-store-badge.svg" alt="App Store" width={120} height={40} className="h-12 w-auto" />
               </a>
             </div>
